@@ -1,0 +1,98 @@
+{
+    "name": "SimplyCast",
+    "description": "All-in-one platform that allows you to discover, organize, and communicate with your leads over all channels of communication",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1476-simplycast.jpg",
+    "tags": [
+        "contacts",
+        "crm",
+        "geo",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/simplycast\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SimplyCast",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1476-simplycast.jpg",
+            "humanURL": "http:\/\/www.simplycast.com\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/simplycast-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/simplycast-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.simplycast.com\/api"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.simplycast.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.simplycast.com\/feed\/?post_type=post"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/simplycast-interactive-marketing"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/simplycast"
+        },
+        {
+            "type": "Email",
+            "url": "customercare@simplycast.com"
+        },
+        {
+            "type": "Email",
+            "url": "abuse@simplycast.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@simplycast.com"
+        },
+        {
+            "type": "Email",
+            "url": "dataprotection@simplycast.com"
+        },
+        {
+            "type": "Email",
+            "url": "compliance@simplycast.com"
+        },
+        {
+            "type": "Email",
+            "url": "unsubscribe@simplycast.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@simplycast.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@simplycast.com"
+        },
+        {
+            "type": "Email",
+            "url": "marketing@simplycast.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/simplycast"
+        }
+    ]
+}
